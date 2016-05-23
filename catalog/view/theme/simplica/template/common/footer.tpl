@@ -1,51 +1,54 @@
 <footer>
   <div class="container">
     <div class="row">
-      <?php if ($informations) { ?>
-      <div class="col-sm-3">
-        <h5><?php echo $text_information; ?></h5>
-        <ul class="list-unstyled">
-          <?php foreach ($informations as $information) { ?>
-          <li><a href="<?php echo $information['href']; ?>"><?php echo $information['title']; ?></a></li>
-          <?php } ?>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3 class="footer-header-title">Electronic Cigarettes</h3>
+        <ul class="nav nav-pills nav-stacked footer-link">
+          <li><a href="#">eliquid &amp; vaping blog</a></li>
+          <li><a href="#" title="Electronic Cigarette Online Shop">ecigarette online shop</a></li>
+          <li><a href="#" title="Information on Electronic Cigarettes">about electronic cigarettes</a></li>
+          <li><a href="#" title="Discover New eLiquids">e-liquid finder &amp; explorer</a></li>
         </ul>
       </div>
-      <?php } ?>
-      <div class="col-sm-3">
-        <h5><?php echo $text_service; ?></h5>
-        <ul class="list-unstyled">
-          <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
-          <li><a href="<?php echo $return; ?>"><?php echo $text_return; ?></a></li>
-          <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3 class="footer-header-title">Useful Information</h3>
+        <ul class="nav nav-pills nav-stacked footer-link">
+            <li><a rel="nofollow" href="http://www.vapebase.co.uk">UK e-liquid wholesale</a></li>
+            <li><a rel="nofollow" href="/about_us/terms_conditions/">terms &amp; conditions</a></li>
+            <li><a rel="nofollow" href="/about_us/privacy_statement/">privacy statement</a></li>
+            <li><a rel="nofollow" href="/about_us/shipping_information/">shipping information</a></li>
         </ul>
       </div>
-      <div class="col-sm-3">
-        <h5><?php echo $text_extra; ?></h5>
-        <ul class="list-unstyled">
-          <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
-          <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
-          <li><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
-          <li><a href="<?php echo $special; ?>"><?php echo $text_special; ?></a></li>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3 class="footer-header-title">About Us</h3>
+        <ul class="nav nav-pills nav-stacked footer-link">
+          <li><a href="/about_us/contact_us/" rel="nofollow">contact us</a></li>
+          <li><a href="/about_us/press-media/" rel="nofollow">press &amp; media</a></li>
+          <li><a rel="nofollow" href="/about_us/cookies">cookies</a></li>
+          <li><a href="https://plus.google.com/115480522597675757708" rel="publisher" target="_blank">Google+</a></li>
         </ul>
       </div>
-      <div class="col-sm-3">
-        <h5><?php echo $text_account; ?></h5>
-        <ul class="list-unstyled">
-          <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
-          <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
-          <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
-          <li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
-        </ul>
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <h3 class="footer-header-title">Get In Touch</h3>
+        <address> 
+            Lorem Park<br> 
+            Lorem Road<br>
+            Lorem<br>
+            Lorem,
+            AA9 AAA<br>
+            UK<br><br>
+            Telephone 019xx xxx xxx
+        </address>
+
       </div>
     </div>
     <hr>
-    <p class="pull-left"><?php echo $powered; ?></p>
-    <p class="pull-right">Theme By <a target="_blank" href="http://harnishdesign.net">Harnish Design</a></p>
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          &copy; 2012-<?php echo date("Y")?> Innovape All Rights Reserved. You have to be over 18 to purchase from this website. Company Registration Number:   0xxxxxxx (England & Wales) VAT Number: GBxxxxxxxxx
+      </div>
+    </div>
   </div>
 </footer>
-<!--
-OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
-Please donate via PayPal to donate@opencart.com
-//-->
-<!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
-</body></html>
+</body>
+</html>
