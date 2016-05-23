@@ -56,5 +56,5 @@
 # Cache Storage
 system/storage/cache/*
 
-config.php
+/config.php
 admin/config.php
