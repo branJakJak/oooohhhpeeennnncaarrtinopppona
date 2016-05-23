@@ -52,3 +52,6 @@
 
 # IDE Project files
 /.idea
+
+# Cache Storage
+system/storage/cache/*
