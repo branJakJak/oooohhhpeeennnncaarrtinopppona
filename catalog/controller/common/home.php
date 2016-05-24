@@ -5,6 +5,8 @@ class ControllerCommonHome extends Controller {
 		$this->document->setDescription($this->config->get('config_meta_description'));
 		$this->document->setKeywords($this->config->get('config_meta_keyword'));
 
+		$this->document->addStyle('catalog/view/theme/simplica/stylesheet/custom.css');
+
 		if (isset($this->request->get['route'])) {
 			$this->document->addLink(HTTP_SERVER, 'canonical');
 		}
@@ -15,7 +17,6 @@ class ControllerCommonHome extends Controller {
 		$data['content_bottom'] = $this->load->controller('common/content_bottom');
 		$data['footer'] = $this->load->controller('common/footer');
 		$data['header'] = $this->load->controller('common/header');
-
 
 
 		$this->response->setOutput($this->load->view('common/home', $data));
