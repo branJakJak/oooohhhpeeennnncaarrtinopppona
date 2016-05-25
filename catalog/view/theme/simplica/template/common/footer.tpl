@@ -25,32 +25,39 @@
       <div class="col-xs-12 col-sm-6 col-md-3">
         <h3 class='footer-header-title'>About Us</h3>
         <ul class="nav nav-pills nav-stacked footer-link">
-          <li><a href="/about_us/contact_us/" rel="nofollow">contact us</a></li>
+          <li><a href="<?php echo $contact ?>" rel="nofollow">contact us   </a></li>
           <li><a href="/about_us/press-media/" rel="nofollow">press &amp; media</a></li>
           <li><a rel="nofollow" href="/about_us/cookies">cookies</a></li>
-            <li><a href="https://plus.google.com/115480522597675757708" rel="publisher" target="_blank">Google+</a></li>
+          <li><a href="https://plus.google.com/115480522597675757708" rel="publisher" target="_blank">Google+</a></li>
         </ul>
       </div>
       <div class="clearfix visible-xs"></div>
       <div class="col-xs-12 col-sm-6 col-md-3">
         <h3 class='footer-header-title'>Get In Touch</h3>
 
-        <address> Unit 29, Orbital 25 Business Park<br>
-        Dwight Road<br>
-        Watford<br>
-        London,
-        WD18 9DA<br>
-        
-        UK<br><br>
-        Telephone 01923 479 992
+        <address> 
+          24 Kendell Street<br>
+          SHENSTONE WOODEND<br>
+          London,
+          WS14 8UA<br>
+
+          UK<br><br>
+          Telephone 01xxx xxx xxx
         </address>
         
       </div>
     </div>
     <hr>
-    <p><small>© 2012-2016 
-    <strong>Vape Club</strong> All Rights Reserved. You have to be over 18 to purchase from this website. Company Registration Number: 08131075 (England &amp; Wales)
-    VAT Number: GB196886725</small>
+    <p>
+      <small>&copy; 2012 - <?php echo date("Y"); ?> 
+        <strong>
+          <?php echo isset($store_name) ? "$store_name":"Acme Corp"  ?>
+        </strong>
+        All Rights Reserved. 
+        You have to be over 18 to purchase from this website.
+        Company Registration Number: 0xxxxxxx (England &amp; Wales)
+        VAT Number: GBxxxxxxxxx
+      </small>
     </p>
   </div>
 </footer>
