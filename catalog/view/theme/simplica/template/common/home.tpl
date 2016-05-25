@@ -166,7 +166,11 @@
                     </div>
                     <div class="customerReviewsProductGrid">
                         <div class="reviewStars">
-                            <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                             <small class="text-muted reviewCountGrid">(10)</small>
                         </div>
                     </div> 
@@ -217,7 +221,7 @@
                             </div>
                             <div class="customerReviewsProductGrid">
                                 <div class="reviewStars">
-                                    <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                    <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                     <small class="text-muted reviewCountGrid">(20)</small>
                                 </div>
                             </div>
@@ -269,7 +273,7 @@
                             </div>
                             <div class="customerReviewsProductGrid">
                                 <div class="reviewStars">
-                                    <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                    <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                     <small class="text-muted reviewCountGrid">(83)</small>
                                 </div>
                             </div>
@@ -322,7 +326,7 @@
                             </div>
                             <div class="customerReviewsProductGrid">
                                 <div class="reviewStars">
-                                    <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                    <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                     <small class="text-muted reviewCountGrid">(49)</small>
                                 </div>
                             </div>
@@ -368,7 +372,7 @@
                     </div>
                     <div class="customerReviewsProductGrid">
                         <div class="reviewStars">
-                            <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                            <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                             <small class="text-muted reviewCountGrid">(5)</small>
                         </div>
                     </div> 
@@ -649,7 +653,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                        <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                         <small class="text-muted reviewCountGrid">(3)</small>
                                     </div>
                                 </div>
@@ -700,7 +704,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(5)</small>
                                     </div>
                                 </div>
@@ -751,7 +755,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                        <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                         <small class="text-muted reviewCountGrid">(1)</small>
                                     </div>
                                 </div>
@@ -803,7 +807,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                        <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                         <small class="text-muted reviewCountGrid">(2)</small>
                                     </div>
                                 </div>
@@ -855,7 +859,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                        <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                         <small class="text-muted reviewCountGrid">(5)</small>
                                     </div>
                                 </div>
@@ -956,7 +960,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(10)</small>
                                     </div>
                                 </div>
@@ -1009,7 +1013,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                        <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                         <small class="text-muted reviewCountGrid">(7)</small>
                                     </div>
                                 </div>
@@ -1061,7 +1065,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(4)</small>
                                     </div>
                                 </div>
@@ -1163,7 +1167,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(18)</small>
                                     </div>
                                 </div>
@@ -1214,7 +1218,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(8)</small>
                                     </div>
                                 </div>
@@ -1315,7 +1319,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(23)</small>
                                     </div>
                                 </div>
@@ -1367,7 +1371,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(34)</small>
                                     </div>
                                 </div>
@@ -1419,7 +1423,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(80)</small>
                                     </div>
                                 </div>
@@ -1472,7 +1476,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(30)</small>
                                     </div>
                                 </div>
@@ -1527,7 +1531,7 @@
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
                                         <span class="glyphicon glyphicon-star"></span>
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(56)</small>
                                     </div>
                                 </div>
@@ -1580,7 +1584,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(82)</small>
                                     </div>
                                 </div>
@@ -1631,7 +1635,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(89)</small>
                                     </div>
                                 </div>
@@ -1685,7 +1689,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(56)</small>
                                     </div>
                                 </div>
@@ -1738,7 +1742,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(20)</small>
                                     </div>
                                 </div>
@@ -1791,7 +1795,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(61)</small>
                                     </div>
                                 </div>
@@ -1843,7 +1847,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(83)</small>
                                     </div>
                                 </div>
@@ -1896,7 +1900,7 @@
                                 </div>
                                 <div class="customerReviewsProductGrid">
                                     <div class="reviewStars">
-                                        <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                        <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                         <small class="text-muted reviewCountGrid">(49)</small>
                                     </div>
                                 </div>
@@ -1993,7 +1997,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(5)</small>
                             </div>
                         </div> 
@@ -2035,7 +2039,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(7)</small>
                             </div>
                         </div> 
@@ -2077,7 +2081,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                 <small class="text-muted reviewCountGrid">(1)</small>
                             </div>
                         </div> 
@@ -2119,7 +2123,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                 <small class="text-muted reviewCountGrid">(11)</small>
                             </div>
                         </div> 
@@ -2161,7 +2165,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(5)</small>
                             </div>
                         </div> 
@@ -2203,7 +2207,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(5)</small>
                             </div>
                         </div> 
@@ -2243,7 +2247,7 @@
                         <div class="customerReviewsProductGrid">
 
                             <div class="reviewStars">
-                                <span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-half"></span><span title="3.5 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-half"></span><span title="3.5 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(4)</small>
                             </div>
 
@@ -2287,7 +2291,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span><span title="5 out of 10" class="glyphicons glyphicons-star"></span>
+                                <span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span><span title="5 out of 10" class="glyphicon glyphicon-star"></span>
                                 <small class="text-muted reviewCountGrid">(8)</small>
                             </div>
                         </div> 
@@ -2366,7 +2370,7 @@
                         <div class="customerReviewsProductGrid">
 
                             <div class="reviewStars">
-                                <span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star"></span><span title="4.5 out of 10" class="glyphicons glyphicons-star-half"></span>
+                                <span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star"></span><span title="4.5 out of 10" class="glyphicon glyphicon-star-half"></span>
                                 <small class="text-muted reviewCountGrid">(6)</small>
                             </div>
 
@@ -2410,7 +2414,7 @@
                         </div>
                         <div class="customerReviewsProductGrid">
                             <div class="reviewStars">
-                                <span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star"></span><span title="4 out of 10" class="glyphicons glyphicons-star-empty"></span>
+                                <span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star"></span><span title="4 out of 10" class="glyphicon glyphicon-star-empty"></span>
                                 <small class="text-muted reviewCountGrid">(10)</small>
                             </div>
                         </div> 
