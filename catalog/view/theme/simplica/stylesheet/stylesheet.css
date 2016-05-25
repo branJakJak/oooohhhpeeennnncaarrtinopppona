@@ -41,12 +41,12 @@ div.required .control-label:before { content: '* '; color: #F00; font-weight: bo
 #logo {margin: 0 0 15px 0;}
 
 /* search */
-#search { margin-bottom:15px; }
+#search { margin-bottom:15px; padding-top: 23px;}
 #search .input-lg { height: 40px; line-height: 20px; padding: 0 10px; border:1px solid #e0e0e0; box-shadow: none; border-right:none;}
 #search .btn-lg {color:#999; font-size: 15px; line-height: 18px; padding: 10px 15px; text-shadow:none; box-shadow: none; background:none; border:1px solid #e0e0e0; border-left:none;}
 
 /* cart */
-#cart { margin-bottom:15px; float:right;}
+#cart { margin-bottom:15px; float:right;padding-top: 23px;}
 #cart > .btn { font-size:14px; line-height: 18px; color: #666; background:none; border:none; text-shadow:none; box-shadow:none;}
 #cart > .btn .fa{font-size:22px;}
 #cart.open > .btn { background-image: none; color: #007acc;}
