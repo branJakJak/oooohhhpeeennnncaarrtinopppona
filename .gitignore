@@ -58,3 +58,9 @@ system/storage/cache/*
 
 /config.php
 admin/config.php
+
+
+
+.idea/
+.phpintel/
+*.bat
