@@ -27,8 +27,14 @@
                 </div>
             </div>
             <div class="col-sm-3">
-                <img class="top-side-images" src="catalog/view/theme/simplica/image/eliquid-explorer-find-vape-juice-top-image.jpg" style="margin-bottom: 10px"> 
-                <img class="top-side-images"  src="catalog/view/theme/simplica/image/free-uk-vape-mail-top-images.jpg"> 
+                <div class="row">
+                    <div class="col-sm-12 col-xs-6">
+                        <img class="top-side-images" src="catalog/view/theme/simplica/image/eliquid-explorer-find-vape-juice-top-image.jpg" style="margin-bottom: 10px"> 
+                    </div>
+                    <div class="col-sm-12 col-xs-6">
+                        <img class="top-side-images"  src="catalog/view/theme/simplica/image/free-uk-vape-mail-top-images.jpg"> 
+                    </div>
+                </div>
             </div>
         </div>
         <br>
