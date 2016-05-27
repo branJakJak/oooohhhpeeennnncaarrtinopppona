@@ -12,13 +12,13 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="catalog/view/theme/simplica/image/1.jpg">
+                                <img src="catalog/view/theme/simplica/image/vapebanner3.png">
                             </div>
                             <div class="item">
-                                <img src="catalog/view/theme/simplica/image/2.jpg">
+                                <img src="catalog/view/theme/simplica/image/KanaVape-Product1.png">
                             </div>
                             <div class="item">
-                                <img src="catalog/view/theme/simplica/image/3.jpg">
+                                <img src="catalog/view/theme/simplica/image/KanaVape-Product-train1.png">
                             </div>
                         </div>
                         <a class="left carousel-control" href="#front-page-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>

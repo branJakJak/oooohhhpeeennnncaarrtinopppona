@@ -42,7 +42,7 @@
           WS14 8UA<br>
 
           UK<br><br>
-          Telephone 01xxx xxx xxx
+          Telephone 0746-063-1550
         </address>
         
       </div>
