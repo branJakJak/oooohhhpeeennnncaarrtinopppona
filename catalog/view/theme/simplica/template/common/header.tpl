@@ -23,6 +23,16 @@
   <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
   <link href="catalog/view/theme/simplica/stylesheet/stylesheet.css" rel="stylesheet">
+
+  <link href="catalog/view/theme/simplica/stylesheet/agecheck.css" rel="stylesheet" media="screen" />
+  <script src="catalog/view/theme/simplica/scripts/jquery.agecheck.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $.ageCheck({minAge: 18});
+    });
+  </script>
+
+
   <?php foreach ($styles as $style) { ?>
   <link href="<?php echo $style['href']; ?>" type="text/css" rel="<?php echo $style['rel']; ?>" media="<?php echo $style['media']; ?>" />
   <?php } ?>
