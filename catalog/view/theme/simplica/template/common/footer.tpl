@@ -36,11 +36,9 @@
         <h3 class='footer-header-title'>Get In Touch</h3>
 
         <address> 
-          24 Kendell Street<br>
-          SHENSTONE WOODEND<br>
+          Swansea SA2<br>
           London,
-          WS14 8UA<br>
-
+          A4118<br>
           UK<br><br>
           Telephone 0746-063-1550
         </address>
