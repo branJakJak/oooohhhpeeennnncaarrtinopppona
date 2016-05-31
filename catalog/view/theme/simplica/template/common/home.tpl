@@ -92,7 +92,7 @@
             <h1>BUY PREMIUM &amp; GOURMET eLIQUIDS FROM UK &amp; USA</h1>
 
 
-            <p class="text-justify">Welcome to Vape Club, the UK's largest <a href="/vaping-ejuices.html">vape eliquid</a> shop and supplier of <a href="/vape-club-electronic-cigarette-starter-kits.html">vape kits</a>, <a href="/clearomiser-tanks.html">vape tanks</a> and <a href="/replacement-coils.html">replacement coils</a>.  Whether you're new to vaping or you're an old hand, our mission is to provide you with the best quality e-liquids and vape hardware at the best possible prices.  In doing so we hope we can also provide you with some excellent info about on vaping on our <a href="//blog.vapeclub.co.uk">vaping blog</a> and maybe a bit of a giggle along the way.</p>
+            <p class="text-justify">Welcome to Innovape, the UK's largest <a href="/vaping-ejuices.html">vape eliquid</a> shop and supplier of <a href="/vape-club-electronic-cigarette-starter-kits.html">vape kits</a>, <a href="/clearomiser-tanks.html">vape tanks</a> and <a href="/replacement-coils.html">replacement coils</a>.  Whether you're new to vaping or you're an old hand, our mission is to provide you with the best quality e-liquids and vape hardware at the best possible prices.  In doing so we hope we can also provide you with some excellent info about on vaping on our <a href="//blog.vapeclub.co.uk">vaping blog</a> and maybe a bit of a giggle along the way.</p>
 
 
             <h1>BEGINNER VAPE KITS &amp; ELIQUIDS</h1>
