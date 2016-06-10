@@ -1,0 +1,11 @@
+2016-06-10 22:57:51 - PHP Notice:  Undefined variable: home in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 11
+2016-06-10 22:57:51 - PHP Notice:  Undefined variable: name in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 11
+2016-06-10 22:57:51 - PHP Notice:  Undefined variable: logo in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 14
+2016-06-10 22:58:08 - PHP Notice:  Undefined variable: home in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 11
+2016-06-10 22:58:08 - PHP Notice:  Undefined variable: name in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 11
+2016-06-10 22:58:08 - PHP Notice:  Undefined variable: logo in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\footer.tpl on line 14
+2016-06-10 23:21:37 - PHP Notice:  Undefined variable: content in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 2238
+2016-06-10 23:23:50 - PHP Notice:  Undefined variable: heading_title in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 4
+2016-06-10 23:23:50 - PHP Notice:  Undefined variable: breadcrumbs in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 6
+2016-06-10 23:23:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 6
+2016-06-10 23:23:50 - PHP Notice:  Undefined variable: content in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 2249

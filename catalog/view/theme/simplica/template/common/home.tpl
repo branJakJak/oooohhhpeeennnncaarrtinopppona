@@ -1,4 +1,6 @@
 <?php echo $header; ?>
+
+
 <div class="container">
     <div class="row">
         <div class="col-sm-12"> 
@@ -2209,8 +2211,8 @@
 
 
             <div style="text-align: center;">
-                <a href="http://www.planetofthevapes.co.uk" target="_blank"><img src="catalog/view/theme/simplica/image/planet-of-the-vapes-logo.png"></a>
-                <a href="http://www.efvi.eu/" target="_blank"><img src="catalog/view/theme/simplica/image/we-support-white-125x50.png"></a>
+                <a href="#" target="_blank"><img src="catalog/view/theme/simplica/image/planet-of-the-vapes-logo.png"></a>
+                <a href="#" target="_blank"><img src="catalog/view/theme/simplica/image/we-support-white-125x50.png"></a>
             </div>
 
 
@@ -2235,6 +2237,3 @@
 </div>
 
 <?php echo $footer ?>
-
-
-

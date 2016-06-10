@@ -1,4 +1,20 @@
 <footer>
+  <div class="modal fade" id="age-restriction-modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+            <img src="/image/catalog/logo2.jpg" class="img-responsive" alt="Image"><br>
+            <h1 style="color: black;font-size: 21px;text-align: center;">Our Services are directed to persons <strong>18</strong> and above.</h1>
+        </div>
+        <div class="modal-footer " style="text-align:center">
+          <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+          <a class='btn btn-default' href="https://www.google.com" style="margin-bottom: 20px">Im below 18</a> >
+          <button type="button" class="btn btn-primary" data-dismiss="modal" style="margin-bottom: 20px">I am 18 and above</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-md-3">
