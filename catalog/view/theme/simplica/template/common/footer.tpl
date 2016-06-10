@@ -20,7 +20,6 @@
       <div class="col-xs-12 col-sm-6 col-md-3">
         <h3 class='footer-header-title'>Electronic Cigarettes</h3>
         <ul class="nav nav-pills nav-stacked footer-link">
-          <li><a href="#">eliquid &amp; vaping blog</a></li>
           <li><a href="/online-shop/" title="Electronic Cigarette Online Shop">ecigarette online shop</a></li>
           <li><a href="/about-ecigs/" title="Information on Electronic Cigarettes">about electronic cigarettes</a></li>
           <li><a href="/eliquid-finder/" title="Discover New eLiquids">e-liquid finder &amp; explorer</a></li>
@@ -30,7 +29,6 @@
       <div class="col-xs-12 col-sm-6 col-md-3">
         <h3 class='footer-header-title'>Useful Information</h3>
         <ul class="nav nav-pills nav-stacked footer-link ">
-          <li><a rel="nofollow" href="#">UK e-liquid wholesale</a></li>
           <li><a rel="nofollow" href="/about_us/terms_conditions/">terms &amp; conditions</a></li>
           <li><a rel="nofollow" href="/about_us/privacy_statement/">privacy statement</a></li>
           <li><a rel="nofollow" href="/about_us/shipping_information/">shipping information</a></li>
