@@ -9,3 +9,249 @@
 2016-06-10 23:23:50 - PHP Notice:  Undefined variable: breadcrumbs in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 6
 2016-06-10 23:23:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 6
 2016-06-10 23:23:50 - PHP Notice:  Undefined variable: content in C:\wamp\www\InnovapeOpenCart\catalog\view\theme\simplica\template\common\home.tpl on line 2249
+2016-06-14 10:12:23 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902743): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:12:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:12:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:12:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:12:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:12:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:12:23 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902743): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:12:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:12:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:12:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:12:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:12:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:12:43 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902763): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:12:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:12:43 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:12:43 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:12:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:12:43 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:12:43 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902763): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:12:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:12:43 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:12:43 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:12:43 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:12:43 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:13:57 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902837): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:13:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:13:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:13:57 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:13:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:13:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:13:57 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902837): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:13:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:13:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:13:57 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:13:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:13:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:14:18 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902858): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:14:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:14:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:14:18 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:14:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:14:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:14:18 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902858): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:14:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:14:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:14:18 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:14:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:14:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:14:45 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902885): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:14:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:14:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:14:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:14:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:14:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:14:45 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902885): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:14:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:14:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:14:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:14:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:14:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:15:54 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465902954): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:15:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:15:54 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:15:54 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:15:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:15:54 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:15:54 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465902954): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:15:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:15:54 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:15:54 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:15:54 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:15:54 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:23 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465902983): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:23 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465902983): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:32 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465902992): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:32 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465902992): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:32 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:32 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:32 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:32 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:45 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465903005): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:45 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465903005): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:45 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465903005): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.country.admin.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.length_class.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.weight_class.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.information.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.return_status.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:50 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465903010): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:16:51 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.zone.222.1465903011): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:16:51 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:16:51 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:16:51 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:16:51 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:16:51 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:18:16 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465903096): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:18:16 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:18:16 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:18:16 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:18:16 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.store.1465903096): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:18:16 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:18:16 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:18:16 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:18:16 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.order_status.1.1465903096): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:18:16 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:18:16 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:18:16 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:18:16 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:18:28 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465903108): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:18:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:18:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:18:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:18:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:18:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:18:28 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465903108): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:18:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:18:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:18:28 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:18:28 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:18:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:19:06 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465903146): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:19:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:19:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:19:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:19:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:19:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:19:06 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465903146): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:19:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:19:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:19:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:19:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:19:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:21:19 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465903279): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:21:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:21:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:21:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:21:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:21:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:21:19 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465903279): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:21:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:21:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:21:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:21:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:21:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:23:19 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.language.1465903399): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:23:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:23:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:23:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:23:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:23:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59
+2016-06-14 10:23:19 - PHP Warning:  fopen(/home/innovape/public_html/system/storage/cache/cache.currency.1465903399): failed to open stream: No such file or directory in /home/innovape/public_html/system/library/cache/file.php on line 49
+2016-06-14 10:23:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 51
+2016-06-14 10:23:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 53
+2016-06-14 10:23:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 55
+2016-06-14 10:23:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 57
+2016-06-14 10:23:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/innovape/public_html/system/library/cache/file.php on line 59

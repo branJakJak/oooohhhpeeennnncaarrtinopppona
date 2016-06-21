@@ -1,5 +1,6 @@
 <?php 
-
+error_reporting(0);
+ini_set('error_reporting', false);
 
 $allowedip = array("112.208.229.250","203.87.156.169","112.208.229.250");
 if (!  in_array($_SERVER['REMOTE_ADDR'], $allowedip)  ) {
